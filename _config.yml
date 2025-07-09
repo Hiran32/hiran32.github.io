@@ -104,4 +104,4 @@ theme: cactus
 deploy:
   type: git
   repo: https://github.com/Hiran32/hiran32.github.io.git
-  branch: main
+  branch: gh-pages
